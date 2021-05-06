@@ -3,7 +3,7 @@
 ![LittleLink](https://cdn.cottle.cloud/littlelink/social-circle.png)
 
 LittleLink je malá a snadno upravitelná DIY alternativa ke službám jako je [Linktree](https://linktr.ee)
-and [many.link](https://www.google.com). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services. 😊
+a [many.link](https://www.google.com). LittleLink využívá [Skeleton](http://getskeleton.com/), pekelně jednotuché, které jsme osekali o všechen nepotřebný kód a přidali jsme pěkné barvičky na buttony pro populární služby. 😊
 
 ![Themes](https://cdn.cottle.cloud/littlelink/themes.png)
 
