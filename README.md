@@ -7,7 +7,7 @@ a [many.link](https://www.google.com). LittleLink využívá [Skeleton](http://g
 
 ![Themes](https://cdn.cottle.cloud/littlelink/themes.png)
 
-LittleLink obsahuje více než 20 tlačítek reprezentující různé známé služby a časem přidáme další. Také tu najdete připravené světlé a tmavé téma - stačí si vybrat. Nelíbí se Vám barvičky? Upravte `skeleton-light.css` nebo `skeleton-dark.css` na HEX barev které se vám líbí víc. 
+LittleLink obsahuje více než 20 tlačítek reprezentujících známé služby a časem přidáme další. Také tu najdete připravené světlé a tmavé téma - stačí si vybrat. Nelíbí se Vám barvičky? Upravte `skeleton-light.css` nebo `skeleton-dark.css` na HEX barev které se vám líbí víc. 
 
 ![Performance](https://cdn.cottle.cloud/littlelink/performance.png)
 
