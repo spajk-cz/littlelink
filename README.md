@@ -7,11 +7,11 @@ a [many.link](https://www.google.com). LittleLink využívá [Skeleton](http://g
 
 ![Themes](https://cdn.cottle.cloud/littlelink/themes.png)
 
-LittleLink has more than 20 company button styles you can use and we'll be throwing more in soon. You'll also find a light and dark theme ready to go. Not a fan of the colors? Update `skeleton-light.css` or `skeleton-dark.css` to the HEX values of your choosing. 
+LittleLink obsahuje více než 20 tlačítek reprezentující různé známé služby a časem přidáme další. Také tu najdete připravené světlé a tmavé téma - stačí si vybrat. Nelíbí se Vám barvičky? Upravte `skeleton-light.css` nebo `skeleton-dark.css` na HEX barev které se vám líbí víc. 
 
 ![Performance](https://cdn.cottle.cloud/littlelink/performance.png)
 
-Using [Skeleton](http://getskeleton.com/) let us build something that loads quickly & doesn't have any of the unnecessary bloat you would get from using a large framework for a page that requires nothing more than simplicity. LittleLink scored a 99/100 in performance when tested with [Google Lighthouse](https://developers.google.com/web/tools/lighthouse).
+Díky [Skeletonu](http://getskeleton.com/) jsme mohli připravit projekt, který je rychlý a neobsahuje žádný balast, který nechcete. Díky tomu LittleLink dosahuje 99/100 ve výkonových testech [Google Lighthouse](https://developers.google.com/web/tools/lighthouse).
 
 ![Publish](https://cdn.cottle.cloud/littlelink/fork-edit-publish.png)
 
