@@ -168,7 +168,7 @@ button:hover,
 /* Reddit */
 .button.button-reddit {
   color: #000000;
-  background-color: #D7DFE2 }
+  background-color: #5bb7d5 }
 .button.button-reddit:hover,
 .button.button-reddit:focus {
   filter: brightness(90%) }
@@ -188,6 +188,15 @@ button:hover,
 .button.button-snapchat:hover,
 .button.button-snapchat:focus {
   filter: brightness(90%) }
+
+/* Spajk.cz */
+.button.button-spajk {
+  color: #000000;
+  background-color: #5bb7d5}
+.button.button-spajk:hover,
+.button.button-spajk:focus {
+  filter: brightness(90%) }
+
 
 /* SoundCloud */
 .button.button-soundcloud {
